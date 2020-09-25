@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&display=swap');
+*{
+    color: gray;
+    background-color: lightgrey;
+}
+h1{
+    font-family: 'Barlow', 'Times New Roman';
+    font-weight: 800;
+    font-size: 120px;
+}
+p{
+    font-family: 'Barlow','Times New Roman';
+    font-weight: 600;
+    font-size: 48px;
+}
+.name{
+    color: rgb(196, 104, 118);}
+.violet{
+    color:rgb(153, 90, 153)
+}
+.light-blue{
+    color:rgb(79, 140, 160)
+}
